@@ -1,0 +1,109 @@
+
+Customer ID: 1
+Name: Tilak
+Age: 0
+Mobile Number: 0
+Address: 
+Gender: 
+
+Customer ID: 1
+Name: 
+Age: 0
+Mobile Number: 0
+Address: 
+Gender: 
+
+Customer ID: 1
+Name: 
+Age: 20
+Mobile Number: 2147483647
+Address: 
+Gender: 
+
+Customer ID: 1
+Name: Tilak
+Age: 12
+Mobile Number: 2147483647
+Address: 
+Gender: 
+
+Customer ID: 1
+Name: Tilak kumar
+Age: 12
+Mobile Number: 2147483647
+Address: 
+Gender: 
+
+Customer ID: 1
+Name: Tilak kumar
+Age: 19
+Mobile Number: 2147483647
+Address: 
+Gender: 
+
+Customer ID: 1
+Name: Geet kumari
+Age: 19
+Mobile Number: 2147483647
+Address: 
+Gender: 
+
+Customer ID: 1
+Name: Tilak kumar
+Age: 34
+Mobile Number: 2147483647
+Address: 
+Gender: 
+
+Customer ID: 1
+Name: saurabh
+Age: 34
+Mobile Number: 7879474
+Address: thakurpatti
+Gender: tola
+
+Customer ID: 2
+Name: 
+Age: 0
+Mobile Number: 0
+Address: 
+Gender: 
+
+Customer ID: 2
+Name: 
+Age: 0
+Mobile Number: 0
+Address: 
+Gender: 
+
+Customer ID: 2
+Name: Tilak
+Age: 0
+Mobile Number: 0
+Address: 
+Gender: 
+
+Customer ID: 2
+Name: Tilak
+Age: 20
+Mobile Number: 2147483647
+Address: 
+Gender: 
+
+Customer ID: 2
+Name: 
+Customer ID: 2
+Name: 
+Customer ID: 4
+Name: Piyush Kumar Das
+Age: 19
+Mobile Number: 9905575418
+Address: Gopalgunj,Bihar
+Gender: Male
+
+Customer ID: 123
+Name: Ramesh
+Age: 24
+Mobile Number: 8788837636
+Address: Saharsa , Bihar
+Gender: Male
